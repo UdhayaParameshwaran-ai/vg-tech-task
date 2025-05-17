@@ -5,7 +5,7 @@ const ImageCardGrid = ({ title, cards }) => {
     <section className="px-4 md:px-16 py-12 bg-white">
       <h2 className="text-3xl font-bold text-center mb-8">{title}</h2>
 
-      {/* Carousel for mobile */}
+      {/* Carousel */}
       <div className="block sm:hidden overflow-x-auto">
         <div className="flex gap-4 w-max px-1">
           {cards.map((card, index) => (
@@ -26,7 +26,7 @@ const ImageCardGrid = ({ title, cards }) => {
         </div>
       </div>
 
-      {/* Grid for tablets and larger */}
+      {/* Grid for larger */}
       <div className="hidden sm:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 place-items-center">
         {cards.map((card, index) => (
           <div

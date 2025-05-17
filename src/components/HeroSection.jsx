@@ -8,18 +8,17 @@ const HeroSection = () => {
       <nav className="bg-white shadow-md px-4 py-3 md:px-6">
         {/* Wrapper with 3 columns layout */}
         <div className="flex items-center justify-between md:grid md:grid-cols-3 md:items-center">
-          {/* Left - Burger Icon (Mobile) & Logo */}
+          {/* Left - Burger Icon & Logo */}
           <div className="flex items-center gap-4">
-            {/* Burger icon (mobile only) */}
+            {/* Burger icon*/}
             <Menu className="md:hidden text-2xl text-gray-700" />
-
             {/* Logo */}
             <div className="text-2xl font-bold text-green-700">
               Column<span className="text-black">9</span>
             </div>
           </div>
 
-          {/* Center - Nav Links (only visible on md and up) */}
+          {/* Center - Nav Links */}
           <ul className="hidden md:flex justify-center space-x-6 text-gray-700 font-medium">
             <li>
               <a href="#">Home</a>
@@ -40,7 +39,7 @@ const HeroSection = () => {
 
           {/* Right - Search and User Icons */}
           <div className="flex items-center justify-end space-x-4">
-            {/* Search input (desktop) */}
+            {/* Search input */}
             <div className="hidden md:block">
               <input
                 type="text"
@@ -48,7 +47,7 @@ const HeroSection = () => {
                 className="px-3 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
               />
             </div>
-            {/* Search icon (mobile) */}
+            {/* Search icon*/}
             <Search className="block md:hidden text-2xl text-gray-700" />
             {/* User Icon */}
             <CircleUserRound className="text-2xl text-gray-700" />

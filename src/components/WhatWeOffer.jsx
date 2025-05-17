@@ -28,7 +28,7 @@ const WhatWeOffer = () => {
       </h1>
 
       <div className="flex flex-col md:flex-row items-center gap-10">
-        {/* Image - Stays Left in Large Screens */}
+        {/* Image */}
         <div className="md:w-1/2 flex justify-center">
           <img
             src="/images/what-we-off.png"
@@ -37,7 +37,7 @@ const WhatWeOffer = () => {
           />
         </div>
 
-        {/* Right Text - h1 & h2 Stay Right on Large Screens, Move Above Image in Mobile */}
+        {/* Right Text */}
         <div className="md:w-1/2 flex flex-col space-y-4">
           <div className="order-1 md:order-none">
             <h1 className="text-2xl font-bold text-green-700">
@@ -48,7 +48,7 @@ const WhatWeOffer = () => {
             </h2>
           </div>
 
-          {/* Paragraph & Button - Stays Below Image in Mobile */}
+          {/* Paragraph & Button */}
           <div className="order-3 md:order-none">
             <p className="text-gray-600">
               Lorem ipsum dolor sit at, consectetur adipielit. Facilisi

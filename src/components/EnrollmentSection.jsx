@@ -8,7 +8,7 @@ const EnrollmentSection = () => {
       </h2>
 
       <div className="flex flex-col md:flex-row gap-12 justify-between items-start">
-        {/* Left Text - Hidden on Mobile */}
+        {/* Left Text */}
         <div className="hidden md:block md:w-1/2">
           <h3 className="text-3xl font-bold mb-4">
             Take your career to <br /> the next level.
@@ -24,7 +24,7 @@ const EnrollmentSection = () => {
           </p>
         </div>
 
-        {/* Right Form - Full Width on Mobile */}
+        {/* Right Form */}
         <div className="md:w-1/2 bg-white rounded-lg shadow-md p-8 w-full">
           <h4 className="text-lg font-semibold mb-6">
             Registration for enrolment

@@ -16,7 +16,7 @@ const GetInTouch = () => {
 
       <div className="border-t border-gray-200 pt-8">
         <div className="flex flex-col lg:flex-row gap-8">
-          {/* Contact Info - LEFT side on desktop (first in DOM but visually right on mobile) */}
+          {/*Contact Info - LEFT side*/}
           <div className="lg:order-1 lg:w-1/2 space-y-6">
             <div>
               <h2 className="text-xl font-semibold mb-2">info@column9.com</h2>
@@ -61,7 +61,7 @@ const GetInTouch = () => {
             </div>
           </div>
 
-          {/* Contact Form - RIGHT side on desktop (second in DOM but visually first on mobile) */}
+          {/*Contact Form - RIGHT side*/}
           <div className="lg:order-2 lg:w-1/2 space-y-4">
             <div>
               <label htmlFor="name" className="block text-gray-700 mb-1">
