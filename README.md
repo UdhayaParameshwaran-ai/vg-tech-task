@@ -1,12 +1,26 @@
-# React + Vite
+# Screenshots
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## In LargeScreen View
 
-Currently, two official plugins are available:
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L1.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L2.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L3.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L4.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L5.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L6.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L7.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L8.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/L9.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## In MobileScreen View
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M1.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M2.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M3.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M4.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M5.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M6.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M7.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M8.png)
+![image alt](https://github.com/UdhayaParameshwaran-ai/vg-tech-task/blob/8bf76127b31bdcd7919656957aae60ad63119087/public/screenshots/M9.png)
